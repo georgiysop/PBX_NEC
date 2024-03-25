@@ -1,6 +1,6 @@
 Testing NEC 2000 and NEC SV 8300
 
-_ru_
+_russian_
 
 Файлик с пояснениями, вээээл:
 Все функции находятся в папке helpers

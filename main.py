@@ -2,6 +2,7 @@
 
 import socket
 import time
+import os
 
 
 from helpers.client_request_to_server import *
@@ -48,4 +49,4 @@ def station_nec(ip_adress_station):
 
 
 if __name__ == "__main__":
-    station_nec('10.45.124.10')
+    station_nec(os.environ['IP_ADRESS'])
